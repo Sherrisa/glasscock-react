@@ -3,9 +3,7 @@ import React from 'react';
 const Header = () => {
   return (
     <div>
-      <div className="jumbotron">
-        <h1>Leah Glasscock Photography</h1>
-      </div>
+      This is the Home Page.
     </div>
   )
 }
