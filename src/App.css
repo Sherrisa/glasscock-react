@@ -15,3 +15,25 @@ h1 {
   font-size: 4em;
   color: #AC7A55;
 }
+
+footer {
+  background-color: #AC7A55;
+  padding: 20px, 0;
+  color: white;
+}
+
+footer {
+  background-color: #AC7A55;
+  padding: 20px, 0;
+  color: white;
+}
+
+footer a {
+  text-decoration: none;
+  color: white;
+}
+
+/* Why doesn't this work? */
+footer a:hover {
+  color: grey;
+}
