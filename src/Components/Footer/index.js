@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="row">
           <div className="col py-5 ml-3">
             <h4>Leah Glasscock Photography</h4>
-            <p>From maternity to graduation</p>
+            <p>From newborn to graduation</p>
           </div>
           <div className="col text-center py-5">
             <h4>Links</h4>   

@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Investment = () => {
+const InvestmentPage = () => {
   return (
     <div>
       This is the Investment Page
@@ -8,4 +8,4 @@ const Investment = () => {
   )
 }
 
-export default Investment
+export default InvestmentPage

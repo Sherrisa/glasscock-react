@@ -35,5 +35,5 @@ footer a {
 
 /* Why doesn't this work? */
 footer a:hover {
-  color: grey;
+  color: black;
 }
